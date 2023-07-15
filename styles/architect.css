@@ -1,0 +1,7 @@
+/* work sans font from google */
+
+  @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Lato:wght@400;700;900&family=Open+Sans:wght@400;700;800&family=Work+Sans:wght@400;600;700&display=swap');
+
+  body{
+    font-family: "work sans", sans-serif;
+  }

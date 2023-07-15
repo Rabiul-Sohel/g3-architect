@@ -71,6 +71,39 @@ nav li a {
 .banner-description {
   color: #727272;
 }
+/* main styles */
+main{
+  max-width: 1440px;
+  margin: 50px auto;
+}
+.teams-container{
+  display: flex;
+  gap: 50px;
+  align-items: center;
+}
+.teams-img-container{
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(2, 1fr);
+}
+.teams-info-container{
+  width: 50%;
+}
+.teams-title{
+  color: #727272;
+  font-size: 3rem;
+  font-weight: 600;
+}
+.teams-description{
+  color: #727272;
+  font-weight: 400;
+}
+.black{
+  color: #131313;
+}
+.orange{
+  color: #FF900E;
+}
 
 
 /* responsive style */
